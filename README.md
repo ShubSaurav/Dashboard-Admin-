@@ -27,6 +27,12 @@ Dark Mode
 - Sidebar: Darker gray background
 - Main Content: Very dark background with white text
 ## Screenshot
+Light Mode  
+![Light Mode Screenshot](Screenshot%202025-08-09%20222351.png)
+
+Dark Mode  
+![Dark Mode Screenshot](Screenshot%202025-08-09%20222401.png)
+
 
 
 ## Technologies Used
